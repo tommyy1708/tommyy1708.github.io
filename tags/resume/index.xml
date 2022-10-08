@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>My New Hugo Site</title>
-        <link>https://tommyy1708.github.io/</link>
-        <description>Tommy Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 10:08:01 -0400</lastBuildDate>
-            <atom:link href="https://tommyy1708.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>resume - Tag - My New Hugo Site</title>
+        <link>https://tommyy1708.github.io/tags/resume/</link>
+        <description>resume - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 10:08:01 -0400</lastBuildDate><atom:link href="https://tommyy1708.github.io/tags/resume/" rel="self" type="application/rss+xml" /><item>
     <title>Resume</title>
     <link>https://tommyy1708.github.io/posts/resume/resume/</link>
     <pubDate>Sat, 01 Oct 2022 10:08:01 -0400</pubDate>
